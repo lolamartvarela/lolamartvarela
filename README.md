@@ -10,5 +10,8 @@ Busco desarrollar mi trabajo en un ambiente pro activo y solidario, con ganas de
 🖥️ Me gusta viajar y programar<br>
 🐶 Amo los animales</h>
 
+<h5>Tecnologías:</h5>
+HTML | CSS | JavaScript | React.js | Python | Flask
+
 <h5>Puedes contactarme en:</h5>
 <a href="https://www.linkedin.com/in/luciamartinezvarela/">LinkedIn</a>
