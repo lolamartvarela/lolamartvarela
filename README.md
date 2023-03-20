@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3>👋🏼 soy Lucía Martínez, < Full Stack Developer /></h3>
+  
+Amante de la gastronomía, me gusta trabajar en equipo y tener relacionamiento social, estoy dispuesta siempre a seguir creciendo y lograr alcanzar las metas que me propongo.
+Busco desarrollar mi trabajo en un ambiente pro activo y solidario, con ganas de crecer como persona y como empresa.
 
-<!--
-**lolamartvarela/lolamartvarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>Sobre mi:</h5>
 
-Here are some ideas to get you started:
+<h>📍 Soy de Minas, Uruguay<br>
+🙈 Soy curiosa, hiperactiva y meticulosa<br>
+🖥️ Me gusta viajar y programar<br>
+🐶 Amo los animales</h>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5>Puedes contactarme en:</h5>
+<a href="https://www.linkedin.com/in/luciamartinezvarela/">LinkedIn</a>
